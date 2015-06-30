@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: DCM4CHEE-WEB
+SCM-Revision: 18419
+Archiver-Version: Plexus Archiver
+Built-By: AWPRC
+Implementation-Build: 3.0.5
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_45
+

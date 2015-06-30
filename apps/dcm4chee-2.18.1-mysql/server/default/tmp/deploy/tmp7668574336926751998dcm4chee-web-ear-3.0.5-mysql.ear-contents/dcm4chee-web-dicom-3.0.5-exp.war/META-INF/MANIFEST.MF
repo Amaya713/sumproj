@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: dcm4chee-web-dicom
+Implementation-Version: 3.0.5
+Archiver-Version: Plexus Archiver
+Built-By: AWPRC
+Implementation-Build: 3.0.5
+Specification-Title: Supports SSO for dicom security
+Extension-Name: dcm4chee-web-dicom
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_45
+
