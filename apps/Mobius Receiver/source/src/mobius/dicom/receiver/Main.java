@@ -50,7 +50,7 @@ import javax.swing.UIManager;
  *
  * @author cwilliams
  */
-public class Main extends javax.swing.JFrame {
+public class Main extends JFrame{
 
     SendDICOM sd = null;
     AdvancedPreferences ap = new AdvancedPreferences();
